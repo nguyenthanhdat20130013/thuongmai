@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6389381a-4df7-4693-b13c-4e92e2d4aded" name="Changes" comment="up code">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -467,7 +466,8 @@
       <workItem from="1687351293517" duration="4270000" />
       <workItem from="1710827923387" duration="3642000" />
       <workItem from="1710855031800" duration="4991000" />
-      <workItem from="1710938959983" duration="6575000" />
+      <workItem from="1710938959983" duration="6797000" />
+      <workItem from="1710946094920" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="fix tính giá vận chuyển">
       <created>1686505220241</created>
@@ -527,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710945187742</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="up code">
+      <option name="closed" value="true" />
+      <created>1710945586934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710945586934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
